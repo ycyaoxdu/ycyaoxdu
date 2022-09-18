@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on [Open Cluster Management](https://open-cluster-management.io/)
+- 📫 How to reach me: yaoyuchen0626@163.com / yuyao@redhat.com
+- 😄 Pronouns: He/Him/His
+
+
+<a href="https://github.com/ycyaoxdu/ycyaoxdu/blob/master/README.md">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ycyaoxdu&show_icons=true&count_private=true&theme=graywhite" />
+</a>
+
+
 <!--
 **ycyaoxdu/ycyaoxdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
