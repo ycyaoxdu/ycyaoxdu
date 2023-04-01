@@ -18,9 +18,11 @@
 
 <p>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-horizontal.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
+<br>
 <code><img width="20%" src="https://github.com/open-cluster-management-io/OCM/blob/main/assets/ocm-logo.png"></code>
+
 <!--
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
 -->
 </p>
