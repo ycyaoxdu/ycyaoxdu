@@ -3,7 +3,7 @@
 [![ghpvc](https://komarev.com/ghpvc/?username=ycyaoxdu)](https://komarev.com/ghpvc/?username=ycyaoxdu)
 
 - 🔭 I’m currently working on [Open Cluster Management](https://open-cluster-management.io/)
-- 📫 How to reach me: yuchenyao@stu.xjtu.edu.cn / yuyao@redhat.com / ashtonyuchenyao@gmail.com 
+- 📫 How to reach me: ashtonyuchenyao@gmail.com / yuchenyao@stu.xjtu.edu.cn / yuyao@redhat.com 
 - 😄 Pronouns: He/Him/His
 - 💬 Ask me anything [here](https://github.com/ycyaoxdu/ycyaoxdu/discussions/new)
 
